@@ -1,0 +1,3 @@
+# Rocket
+Just playing around with Rocket exercise from [introtopython](http://introtopython.org/all_exercises_challenges.html)
+and learning to use github... 
